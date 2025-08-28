@@ -6,19 +6,19 @@ This project demonstrates how to build, evaluate, and persist a production-ready
 ---
 
 ## 🔎 Overview  
-- Loads dataset directly from **OpenML**.  
-- Preprocesses numerical & categorical features (imputation, scaling, one-hot encoding).  
-- Trains a **Gradient Boosting Classifier** using scikit-learn.  
-- Evaluates with **accuracy, ROC-AUC, confusion matrix, and classification report**.  
-- Saves the trained pipeline for reuse with `joblib`.  
+- Loads dataset directly from **OpenML**.
+- Preprocesses numerical & categorical features (imputation, scaling, one-hot encoding).
+- Trains a **Gradient Boosting Classifier** using scikit-learn.
+- Evaluates with **accuracy, ROC-AUC, confusion matrix, and classification report**.
+- Saves the trained pipeline for reuse with `joblib`.
 
 ---
 
 ## ⚙️ Tech Stack  
-- Python 3.9+  
-- scikit-learn  
+- Python 3.9+ 
+- scikit-learn
 - numpy, pandas  
 - matplotlib  
-- joblib  
+- joblib
 
 ---
