@@ -1,4 +1,4 @@
-# 📊 Credit Risk Scoring Pipeline  
+# 📊 Credit Risk Scoring Pipeline
 
 An **end-to-end machine learning pipeline** for credit risk scoring using the **German Credit Dataset (OpenML id=31)**.  
 This project demonstrates how to build, evaluate, and persist a production-ready model for financial risk assessment.  
